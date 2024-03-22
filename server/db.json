@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "TGskkWES",
+      "name": "Rajan",
+      "company": "Youtube",
+      "email": "priyank1@gmail.com",
+      "title": "Youtuber ",
+      "mobile": "9090909090",
+      "photo": "https://img.freepik.com/free-photo/human-reaction-facial-expressions-feelings_343059-3556.jpg?w=826&t=st=1711041433~exp=1711042033~hmac=d34e203ef1dd8881c05d389911527217dca09d07ddfe2cbce00be783ae11f796",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Mansi",
+      "company": "Kalik",
+      "email": "mansi1@gmail.com",
+      "title": "fashion designer ",
+      "mobile": "9569696969",
+      "photo": "https://img.freepik.com/free-photo/adorable-student-girl-posing-against-rose-wall-with-thoughtful-facial-expression-wearing-striped-t-shirt-glasses-keeping-finger-lips_176532-10935.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "DDghWEssa",
+      "name": "Rina",
+      "company": "kalik",
+      "email": "rina@gmail.com",
+      "title": "Painter ",
+      "mobile": "9090909090",
+      "photo": "https://img.freepik.com/free-photo/sullen-pretty-young-female-blows-cheeks-with-anger_273609-28597.jpg?w=826&t=st=1711041480~exp=1711042080~hmac=462873d5080943f01bb112bae1aefd386875d2c96ecf1efd2de923a313d55fc0",
+      "groupId": "4"
+    },
+    {
+      "id": "ADserdcER",
+      "name": "mukesh",
+      "company": "partner",
+      "email": "mukesh1@gmail.com",
+      "title": "cfo ",
+      "mobile": "8969960600",
+      "photo": "https://img.freepik.com/free-photo/confused-man-posing-studio_176420-28944.jpg?w=826&t=st=1711041597~exp=1711042197~hmac=df4461a0966e6ca43a045f99165bfded59cbad993da2fc4cf35a393dcdb03d03",
+      "groupId": "6"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
