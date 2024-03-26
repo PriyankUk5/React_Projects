@@ -145,13 +145,13 @@ const ContactList = () => {
                     return (
                       <div className="col-md-6" key={contact.id}>
                         <div className="card my-2">
-                          <div className="card-body">
+                          <div className="card-body wrapper-block">
                             <div className="row align-items-center d-flex justify-content-around">
-                              <div className="col-md-4">
+                              <div className="col-md-4 user-img">
                                 <img
                                   src={contact.photo}
                                   alt="img-2"
-                                  className="contact-img"
+                                  className="contact-img user-img"
                                 />
                               </div>
                               <div className="col-md-7">
@@ -176,7 +176,7 @@ const ContactList = () => {
                                   </li>
                                 </ul>
                               </div>
-                              <div className="col-md-1 d-flex flex-column align-items-center ">
+                              <div className="col-md-1 d-flex flex-column align-items-center mobile-flex">
                                 <Link
                                   to={`/contacts/view/${contact.id}`}
                                   className="btn btn-warning my-1"

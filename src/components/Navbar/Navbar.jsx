@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="container">
           <Link to={"/"} className="navbar-brand">
             <i className="fa fa-mobile teat-warning">
-              Contact <span className="text-warning">Manager</span>
+              &nbsp; Contact <span className="text-warning">Manager</span>
             </i>
           </Link>
         </div>

@@ -43,7 +43,6 @@ const AddContact = () => {
         console.error(error);
       }
     };
-
     getGroupsData();
   }, []);
 

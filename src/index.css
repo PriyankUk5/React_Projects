@@ -10,3 +10,35 @@ body {
   height: 200px;
   border-radius: 50% !important;
 }
+
+.wrapper-block {
+  margin: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.user-img {
+  width: 9rem;
+  height: 9rem;
+}
+
+@media screen and (max-width: 767px) {
+  .wrapper-block {
+    display: block;
+    justify-content: center;
+  }
+
+  .user-img {
+    display: flex;
+    justify-content: center !important;
+  }
+
+  .mobile-flex {
+    flex-direction: none !important;
+    justify-content: center;
+  }
+
+  .justify-content-around {
+    row-gap: 20px;
+  }
+}
